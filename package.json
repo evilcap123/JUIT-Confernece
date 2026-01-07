@@ -1,0 +1,19 @@
+{
+  "name": "juit-aim-scc-2026",
+  "version": "1.0.0",
+  "description": "JUIT AIM-SCC 2026 Conference Website",
+  "scripts": {
+    "dev": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+    "build": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --minify"
+  },
+  "keywords": [
+    "conference",
+    "civil-engineering",
+    "juit"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
