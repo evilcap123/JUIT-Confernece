@@ -2,7 +2,7 @@
 node_modules/
 
 # Build output
-assets/css/output.css
+# assets/css/output.css (commented out for GitHub Pages deployment)
 
 # Editor
 .vscode/
